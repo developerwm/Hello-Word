@@ -2,4 +2,6 @@
 
 echo "Six";
 
+echo "Six";
+
 ?>
