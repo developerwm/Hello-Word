@@ -1,5 +1,5 @@
 <?php
 
-echo "Hdddddddddddddddddddddd Master";
+echo "H Master For";
 
 ?>
