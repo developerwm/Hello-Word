@@ -1,5 +1,5 @@
 <?php
 
-echo "Helooosasooooo Master";
+echo "H Master";
 
 ?>
